@@ -27,8 +27,7 @@
 <img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/html/html.png">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duygugunaydin&show_icons=true&locale=en&layout=compact" alt="duygugunaydin"/></p>
-
 <h3 align="left">Connect with me:</h3>
-<p align="left"><a href="https://linkedin.com/in/https://www.linkedin.com/in/duygugunaydin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/duygugunaydin/" height="30" width="40" /></a></p>
-
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/duygugunaydin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/duygugunaydin/" height="30" width="40" /></a>
+</p>
